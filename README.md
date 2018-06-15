@@ -4,3 +4,7 @@
  2. [blush](https://github.com/arsham/blush) - Alternate to grep with colors
  3. [gron](https://github.com/tomnomnom/gron) - JSON grep utility
  
+## Online Tools
+
+1. http://sendback.io/ - Prototype API Requests
+2. https://www.jsonstore.io/ - JSON store endpoint. Create, Mutate and Get JSON via HTTP
