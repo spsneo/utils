@@ -8,3 +8,4 @@
 
 1. http://sendback.io/ - Prototype API Requests
 2. https://www.jsonstore.io/ - JSON store endpoint. Create, Mutate and Get JSON via HTTP
+3. https://instacalc.com/ - Instant calculator. Something like spreadsheets.
