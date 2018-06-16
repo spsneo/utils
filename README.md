@@ -13,3 +13,4 @@
 
 ## JS Libraries
 1. http://mathjs.org/ - Maths Library
+2. https://github.com/ecrmnn/collect.js - Collections library
