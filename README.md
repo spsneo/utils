@@ -7,5 +7,5 @@
 ## Online Tools
 
 1. http://sendback.io/ - Prototype API Requests
-2. https://www.jsonstore.io/ - JSON store endpoint. Create, Mutate and Get JSON via HTTP
+2. https://www.jsonstore.io/ - JSON store endpoint. Create, Mutate and Get JSON via HTTP https://github.com/spsneo/utils.git
 3. https://instacalc.com/ - Instant calculator. Something like spreadsheets.
