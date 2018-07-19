@@ -12,7 +12,11 @@
 3. https://instacalc.com/ - Instant calculator. Something like spreadsheets.
 4. https://www.db-fiddle.com/ - DB fiddle. Something like JS fiddle.
 5. https://transfer.sh/ - Transfer and share files.
+6. https://github.com/chubin/cheat.sh - Cheat sheet for anything.
 
 ## JS Libraries
 1. http://mathjs.org/ - Maths Library
 2. https://github.com/ecrmnn/collect.js - Collections library
+
+## Knowledge
+1. https://yuchengkai.cn/docs/cs/ - Interview map
