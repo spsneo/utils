@@ -13,6 +13,7 @@
 4. https://www.db-fiddle.com/ - DB fiddle. Something like JS fiddle.
 5. https://transfer.sh/ - Transfer and share files.
 6. https://github.com/chubin/cheat.sh - Cheat sheet for anything.
+7. https://devhints.io/ - Cheat sheet for developers.
 
 ## JS Libraries
 1. http://mathjs.org/ - Maths Library
