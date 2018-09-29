@@ -22,3 +22,4 @@
 
 ## Knowledge
 1. https://yuchengkai.cn/docs/cs/ - Interview map
+2. https://30secondsofcode.org/ - 30 seconds of JS code
