@@ -15,6 +15,7 @@
 5. https://transfer.sh/ - Transfer and share files.
 6. https://github.com/chubin/cheat.sh - Cheat sheet for anything.
 7. https://devhints.io/ - Cheat sheet for developers.
+8. https://github.com/nikitavoloboev/my-mac-os#command-line-apps
 
 ## JS Libraries
 1. http://mathjs.org/ - Maths Library
@@ -23,3 +24,4 @@
 ## Knowledge
 1. https://yuchengkai.cn/docs/cs/ - Interview map
 2. https://30secondsofcode.org/ - 30 seconds of JS code
+3. https://learn-anything.xyz/ - Learn Anything.
