@@ -5,6 +5,7 @@
  3. [gron](https://github.com/tomnomnom/gron) - JSON grep utility
  4. [fd](https://github.com/sharkdp/fd) - _fd_ is a simple, fast and user-friendly alternative to find.
  5. [ripgrep](https://blog.burntsushi.net/ripgrep/) - ripgrep ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}
+ 6. [xx](https://github.com/antonmedv/xx) - xx - JSON processing tool command line
  
 ## Online Tools
 
