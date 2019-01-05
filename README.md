@@ -21,6 +21,7 @@
 ## JS Libraries
 1. http://mathjs.org/ - Maths Library
 2. https://github.com/ecrmnn/collect.js - Collections library
+3. https://github.com/enquirer/enquirer - Stylish CLI Prompts
 
 ## Knowledge
 1. https://yuchengkai.cn/docs/cs/ - Interview map
