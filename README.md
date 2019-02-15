@@ -21,6 +21,7 @@
 2. https://github.com/ecrmnn/collect.js - Collections library
 3. https://github.com/enquirer/enquirer - Stylish CLI Prompts
 4. https://github.com/chalk/chalk - Terminal string styling.
+5. https://fusejs.io/ - JS Fuzzy search library.
 
 ## Knowledge
 1. https://yuchengkai.cn/docs/cs/ - Interview map
