@@ -22,6 +22,7 @@
 3. https://github.com/enquirer/enquirer - Stylish CLI Prompts
 4. https://github.com/chalk/chalk - Terminal string styling.
 5. https://fusejs.io/ - JS Fuzzy search library.
+6. https://github.com/postlight/mercury-parser - Extracting content from the chaos of the web.
 
 ## Knowledge
 1. https://yuchengkai.cn/docs/cs/ - Interview map
