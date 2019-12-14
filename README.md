@@ -11,7 +11,6 @@
 2. https://www.jsonstore.io/ - JSON store endpoint. Create, Mutate and Get JSON via HTTP.
 3. https://instacalc.com/ - Instant calculator. Something like spreadsheets.
 4. https://www.db-fiddle.com/ - DB fiddle. Something like JS fiddle.
-5. https://transfer.sh/ - Transfer and share files.
 6. https://github.com/chubin/cheat.sh - Cheat sheet for anything.
 7. https://devhints.io/ - Cheat sheet for developers.
 8. https://github.com/nikitavoloboev/my-mac-os#command-line-apps
